@@ -1,0 +1,27 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "name": "root",
+      "folder_exclude_patterns": [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        "src"
+      ],
+      "follow_symlinks": true
+		},
+		{
+			"path": "src",
+      "name": "django",
+      "follow_symlinks": true
+		}
+	],
+  "settings":
+  {
+    "default_line_ending": "unix",
+    "tab_size": 2
+  }
+}
